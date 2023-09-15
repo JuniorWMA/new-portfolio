@@ -1,0 +1,31 @@
+.card-header{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.title-tehc {
+  color: white;
+  font-weight: bold;
+  font-size: 35px;
+
+}
+
+.card-header{
+  background-color: #5ca2c6;
+}
+
+.cads-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 100px;
+  margin-bottom: 35px;
+
+}
+
+.card-title{
+  margin-top: 10px;
+  color: gray;
+}
+

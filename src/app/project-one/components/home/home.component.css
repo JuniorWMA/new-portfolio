@@ -1,0 +1,10 @@
+.comp-about {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+i:hover {
+  cursor: pointer;
+  transition: all 0.3s;
+  color: #5ca2c6;
+}
